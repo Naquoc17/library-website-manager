@@ -1,0 +1,58 @@
+entity-relationship-diagram
+
+messages [icon: message-circle, color: red]{
+  id integer pk
+  user_email text
+  title text
+  question text
+  admin_email text
+  response text
+  closed integer
+}
+
+book [icon: book, color: lightblue]{
+  id integer pk
+  title text
+  author text
+  description text
+  copies integer
+  copies_available integer
+  category text
+  img text
+}
+
+review [icon: star, color: yellow]{
+  id integer pk
+  user_email text
+  date date
+  rating integer
+  review_description text
+  book_id integer fk
+}
+
+checkout [icon: calendar, color: green]{
+  id integer pk
+  user_email text
+  checkout_date date
+  return_date date
+  book_id integer fk
+}
+
+history [icon: clock, color: orange]{
+  id integer pk
+  user_email text
+  checkout_date date
+  return_date date
+  book_id integer fk
+  title text
+  author text
+  description text
+  img text
+}
+
+// End of tables
+// define relationships
+review.book_id > book.id
+checkout.book_id > book.id
+history.book_id > book.id
+
