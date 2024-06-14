@@ -37,14 +37,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 # Database
 ![Database Architecture in MySQL](/.eraser/yu6CBue8k9oVM03SVIdM___6tTMm8hNJNYSayILsW9GAaGAkTX2___---figure---wML_FKg1SeefBbmvYIxat---figure---i5wFxB5kAnCVGoh9aZcQ0A.png "Database Architecture in MySQL")
-
-
-
-
-<!-- eraser-additional-content -->
-## Diagrams
-<!-- eraser-additional-files -->
-<a href="/README-text-1.eraserdiagram" data-element-id="FsZ0C0CrJsVY_6gr0yAjH"><img src="/.eraser/yu6CBue8k9oVM03SVIdM___6tTMm8hNJNYSayILsW9GAaGAkTX2___---diagram----04455035b52abc0e25bbad13b0c1a6ca-text.png" alt="" data-element-id="FsZ0C0CrJsVY_6gr0yAjH" /></a>
-<!-- end-eraser-additional-files -->
-<!-- end-eraser-additional-content -->
-<!--- Eraser file: https://app.eraser.io/workspace/yu6CBue8k9oVM03SVIdM --->
