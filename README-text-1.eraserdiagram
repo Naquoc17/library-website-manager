@@ -1,6 +1,6 @@
 entity-relationship-diagram
 
-messages [icon: message-circle, color: red]{
+messages [icon: message-circle, color: ]{
   id integer pk
   user_email text
   title text
@@ -21,7 +21,7 @@ book [icon: book, color: lightblue]{
   img text
 }
 
-review [icon: star, color: yellow]{
+review [icon: star, color: brown]{
   id integer pk
   user_email text
   date date

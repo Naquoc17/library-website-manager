@@ -27,7 +27,7 @@ Your app is ready to be deployed!
 See the section about [﻿deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject` 
-**Note: this is a one-way operation. Once you **`****eject****`**, you can’t go back!**
+**Note: this is a one-way operation. Once you **`******eject******`**, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
@@ -36,4 +36,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 # Database
-![Database Architecture in MySQL](/.eraser/yu6CBue8k9oVM03SVIdM___6tTMm8hNJNYSayILsW9GAaGAkTX2___---figure---wML_FKg1SeefBbmvYIxat---figure---i5wFxB5kAnCVGoh9aZcQ0A.png "Database Architecture in MySQL")
+![Database Architecture in MySQL](/.eraser/yu6CBue8k9oVM03SVIdM___6tTMm8hNJNYSayILsW9GAaGAkTX2___---figure---vMC6qsAckwQb_StFGq_Of---figure---i5wFxB5kAnCVGoh9aZcQ0A.png "Database Architecture in MySQL")
+
+
+
+
+<!-- eraser-additional-content -->
+## Diagrams
+<!-- eraser-additional-files -->
+<a href="/README-text-1.eraserdiagram" data-element-id="FsZ0C0CrJsVY_6gr0yAjH"><img src="/.eraser/yu6CBue8k9oVM03SVIdM___6tTMm8hNJNYSayILsW9GAaGAkTX2___---diagram----168963c3ee8ef3c8b10f9c7ecd6eb12b-text.png" alt="" data-element-id="FsZ0C0CrJsVY_6gr0yAjH" /></a>
+<!-- end-eraser-additional-files -->
+<!-- end-eraser-additional-content -->
+<!--- Eraser file: https://app.eraser.io/workspace/yu6CBue8k9oVM03SVIdM --->
